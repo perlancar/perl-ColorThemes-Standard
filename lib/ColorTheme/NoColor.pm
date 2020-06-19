@@ -11,6 +11,7 @@ our %THEME = (
     v => 2,
     summary => 'An empty color theme that provides no items',
     items => {},
+    _no_color => 1,
 );
 
 1;
